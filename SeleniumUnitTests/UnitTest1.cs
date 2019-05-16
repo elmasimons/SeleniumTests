@@ -1,4 +1,8 @@
-﻿using System;
+/*This code is the intellectual property of IBM and is not to be used by non-IBM practitioners nor distributed outside of
+IBM internal without having the proper clearance. 
+For full usage guidelines refer to Guidelines for Asset Consumption. */
+
+using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
