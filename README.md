@@ -7,6 +7,8 @@ and used as is in order to see the Selenium test results under Azure Test Plans.
 when building this in Azure DevOps. For additional reference please find the json for the build pipeline of Selenium Tests included
 in this folder "Selenium UI Test-CI.json"
 
+2)  Refer to the .NET DevOps Implementation Guide.pdf that has been included with this asset on the "Asset Sharing Platform" . Title of the asset is "Selenium Test Automation and DevOps with using Azure DevOps"
+
 
 Please reach out to me Elma C Simons (elma.simons@in.ibm.com) in case of any issues using this solution. 
 Since this is client specific I have removed essential urls and data specific to client environment from this solution and the json files.
